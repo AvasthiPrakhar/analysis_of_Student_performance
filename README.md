@@ -4,6 +4,12 @@ A student analysis report was constructed using the historical data of about 14 
 
 ## Summery:
 
+
+
+https://github.com/user-attachments/assets/119e8529-36be-4554-9eaf-c1883fb8564b
+
+
+
 Current Student Performance:
 ![image](https://github.com/user-attachments/assets/b266b591-153a-4b57-89cd-1ae68908369a)
 
