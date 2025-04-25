@@ -2,7 +2,7 @@
 
 A student analysis report was constructed using the historical data of about 14 quizzes. The current quiz data was then compared to the historical trends.The full conducted analysis can be found in Student_Performance.ipynb file.  
 
-## Summery:
+## Summary:
 
 
 
